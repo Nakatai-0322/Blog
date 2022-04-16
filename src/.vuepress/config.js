@@ -5,7 +5,7 @@ const path = require("path");
 
 module.exports = {
     title: "Nakatai Blog",
-    theme: "vuepress-theme-meteorlxy",
+    theme: path.resolve(__dirname, './theme/lib'),
     description: "Nakatai's Blog",
     head: [
         ["link", { rel: "icon", href: "//minotar.net/helm/d297f52003024e5d944fd78edc82891a" }],

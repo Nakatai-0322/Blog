@@ -13,8 +13,7 @@
     "devDependencies": {
         "vuepress": "^1.8.2",
         "vuepress-plugin-disqus": "^0.2.0",
-        "vuepress-plugin-feed": "^0.1.9",
-        "vuepress-theme-meteorlxy": "^1.9.0"
+        "vuepress-plugin-feed": "^0.1.9"
     },
     "dependencies": {
         "@vuepress/plugin-google-analytics": "^1.8.2",
