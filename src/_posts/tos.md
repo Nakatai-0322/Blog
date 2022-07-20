@@ -11,6 +11,8 @@ permalink: /policy/tos/
 
 Nakatai Blog（[こちら](https://github.com/Nakatai-0322/Blog/blob/main/README.md#ドメインリスト)に掲載のURLを持つサイト）（以下、「当サイト」とします。）における利用規約は、下記の通りです。
 
+<!--more-->
+
 ## 定義
 
 この利用規約を以降「当規約」とする。

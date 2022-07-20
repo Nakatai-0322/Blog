@@ -9,12 +9,13 @@ tags:
 menu: main
 ---
 
-<!--more-->
 はい！どうもこばわ。
 
 Nakataiです。
 
 早速ですが、このブログのテーマを変更しました。
+
+<!--more-->
 
 VuePressの公式ブログ用テーマ→[meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy/)
 って感じです。

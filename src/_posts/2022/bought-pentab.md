@@ -16,6 +16,8 @@ menu: main
 はい、実はこの度、自分へのお年玉企画ということで、ペンタブ（[Wacom Intuos Small](https://amzn.to/3ER0j7M) TCTL4100/K0）
 を買いました。
 
+<!--more-->
+
 そして、同時に[CLIP STUDIO PAINT PRO](https://www.clipstudio.net)も買いました。
 
 ## 使用レビュー
