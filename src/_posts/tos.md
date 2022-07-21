@@ -72,15 +72,9 @@ Nakatai Blog（[こちら](https://github.com/Nakatai-0322/Blog/blob/main/README
 
 当サイトのコンテンツ又は[当サイトを構成するソースコード](https://github.com/Nakatai-0322/Blog)は、当サイトの管理者が管理する部分のみ、「[クリエイティブ・コモンズ 表示-継承](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)」ライセンス及び、"[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)"によって提供され、利用者はどちらかを選択して利用することができます。
 
-前者は、作品を複製、頒布、展示、実演を行うにあたり、著作権者の表示を必要とし、作品を改変などしてできた作品についても、元になった作品と同じライセンスを継承させた上で頒布を認めるという趣旨のものであり後者に比べるとコンテンツに適したライセンスであります。
-
-後者は、ユーザーが著作権者のソースコードの使用や配布、修正、派生版の頒布をすることを制限せず、再配布する場合は"Apache License 2.0"のライセンス条文のコピーを提供すること、改変したものを配布する場合は、変更点を明記することなどから成るという趣旨であります。
-
-※上記は、管理者によるライセンスの要約であり、各ライセンスのリーガルコードと齟齬が生じた場合はリーガルコードを優先するものとします。
-
 詳しくは、[「クリエイティブ・コモンズ 表示-継承」ライセンスのリーガルコード](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)（英文）及び、["Apache License 2.0"のリーガルコード](https://www.apache.org/licenses/LICENSE-2.0.txt)（英文）をご覧ください。
 
-但し、当規約もしくは当サイトに適用される利用規約については、[CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)を適用するものとします。
+但し、当規約もしくは他の当サイトに適用される利用規約・ポリシー等については、[CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)を適用するものとします。
 
 詳しくは[リーガルコード](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt)をご覧ください。
 
