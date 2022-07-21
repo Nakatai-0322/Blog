@@ -19,7 +19,7 @@ Nakatai Blog（[こちら](https://github.com/Nakatai-0322/Blog/blob/main/README
 
 当サイトの正当な管理権限を有し、当サイトを管理する者を以下「管理者」若しくは「管理人」とする。
 
-当サイトに[GitHub](https://github.com/Nakatai-0322/Blog)経由で寄稿をする者、寄稿をしようとする者を以下「寄稿者」とする。
+当サイトにGitHub経由で寄稿をする者、寄稿をしようとする者を以下「寄稿者」とする。
 
 ## 適用
 
