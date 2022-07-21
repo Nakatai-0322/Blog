@@ -32,7 +32,7 @@ permalink: /profile
 
 文で書いてみましょう。
 
-はじめまして！Nakataiと申します。私は誕生日が3月22日の、生物学的性は男性ですが自分でパンセクシャルと自認しているHomo sapiens Linnaeusです。
+はじめまして！Nakataiと申します。私は誕生日が3月22日の、身体性は男性ですがパンセクシャルと自認しているHomo sapiensです。
     
 パンセクシュアルについては[こちらの記事](posts/2022/07/17/maybe-pansexual.html)を参照ください。
 
