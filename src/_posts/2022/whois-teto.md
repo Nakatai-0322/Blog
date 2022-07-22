@@ -1,6 +1,6 @@
 ---
 title: "テトさんって何者だ？"
-date: 2022-07-22
+date: 2022-07-23
 categories:
     - ブログ
 tags:
