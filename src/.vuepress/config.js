@@ -21,7 +21,7 @@ module.exports = {
             shortname: "blog-nakatai-ga",
         },
         "sitemap": {
-            hostname: "https://nakatai.ga",
+            hostname: "https://nakatai.xyz",
             exclude: ["/404"],
             changefreq: "daily",
             dateFormatter: val => {
@@ -31,7 +31,7 @@ module.exports = {
     },
     plugins: [
         ["feed", {
-            canonical_base: "https://nakatai.ga",
+            canonical_base: "https://nakatai.xyz",
         }]
     ],
 
@@ -114,7 +114,7 @@ module.exports = {
         nav: [
             { text: "ホーム", link: "/", exact: true },
             { text: "全記事リスト", link: "/posts/", exact: false },
-            { text: "RSS", link: "https://nakatai.ga/rss.xml" },
+            { text: "RSS", link: "https://nakatai.xyz/rss.xml" },
             { text: "GitHub", link: "https://github.com/Nakatai-0322/blog" },
         ],
         smoothScroll: true,
