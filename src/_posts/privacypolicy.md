@@ -2,8 +2,6 @@
 title: "プライバシーポリシー"
 categories:
     - "ポリシー"
-tags:
-    - "ポリシー"
 menu: main
 permalink: /policy/privacypolicy/
 ---
