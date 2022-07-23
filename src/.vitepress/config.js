@@ -21,7 +21,7 @@ module.exports = {
             shortname: "blog-nakatai-ga",
         },
         "sitemap": {
-            hostname: "https://nakatai.ga",
+            hostname: "https://nakatai.xyz",
             exclude: ["/404"],
             changefreq: "daily",
             dateFormatter: val => {
@@ -31,7 +31,7 @@ module.exports = {
     },
     plugins: [
         ["feed", {
-            canonical_base: "https://nakatai.ga",
+            canonical_base: "https://nakatai.xyz",
         }]
     ],
 
@@ -97,8 +97,8 @@ module.exports = {
                 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">
                     Nakatai Blog
                 </span>"は
-                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-                    クリエイティブ・コモンズ 表示 4.0 国際 ライセンス
+                <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+                    クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス
                 </a>で提供されています。
                 <br>
                 `,
@@ -114,7 +114,7 @@ module.exports = {
         nav: [
             { text: "ホーム", link: "/", exact: true },
             { text: "全記事リスト", link: "/posts/", exact: false },
-            { text: "RSS", link: "https://nakatai.ga/rss.xml" },
+            { text: "RSS", link: "https://nakatai.xyz/rss.xml" },
             { text: "GitHub", link: "https://github.com/Nakatai-0322/blog" },
         ],
         smoothScroll: true,
