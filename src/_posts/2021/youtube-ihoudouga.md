@@ -82,4 +82,4 @@ menu: main
 
 - <https://ja.wikipedia.org/wiki/違法ダウンロード>
 
-<Disqus>
+<Disqus/>

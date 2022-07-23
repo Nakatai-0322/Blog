@@ -60,4 +60,4 @@ OSは、Windows11です。
 
 <img src="https://cdn.nakatai.ga/img/sign.webp" width="200">
 
-<Disqus>
+<Disqus/>

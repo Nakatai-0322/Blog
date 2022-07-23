@@ -1,6 +1,8 @@
 const path = require("path");
 
-module.exports = {
+import { defineUserConfig } from 'vuepress-vite';
+
+export default defineUserConfig({
     title: "Nakatai Blog",
     theme: path.resolve(__dirname, "theme/index.js"),
     description: "Nakatai's Blog",
@@ -127,4 +129,4 @@ module.exports = {
         },
         comments: false,
     },
-};
+});

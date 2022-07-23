@@ -88,4 +88,4 @@ Aくん（当時一緒に帰っていた）には、リハビリテーション�
 
 <img src="https://cdn.nakatai.ga/img/sign.webp" width="500" alt="サイン">
 
-<Disqus>
+<Disqus/>

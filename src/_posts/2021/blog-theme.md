@@ -44,4 +44,4 @@ VuePressの公式ブログ用テーマ→[meteorlxy](https://github.com/meteorlx
 
 <img src="https://cdn.nakatai.ga/img/sign.webp" width="200">
 
-<Disqus>
+<Disqus/>

@@ -44,4 +44,4 @@ menu: main
 
   <img src="https://cdn.nakatai.ga/img/sign.webp" width="500" alt="サイン">
 
-<Disqus>
+<Disqus/>

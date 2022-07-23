@@ -20,7 +20,7 @@ permalink: /profile
 | -------- | --------------------------------------------------- |
 | 名称     | Nakatai                                             |
 | 名称読み | なかたい（Nakatai）                                 |
-| 名称発音 | な→か→た→い<audio controls src="https://cdn.nakatai.ga/howtosaynkt.wav"> |
+| 名称発音 | な→か→た→い<audio controls src="https://cdn.nakatai.ga/howtosaynkt.wav"></audio> |
 | 誕生日   | yyyy年03月22日                                               |
 | 出身地   | 岐阜県                                              |
 | 趣味     | プログラミング/ゲーム                               |
