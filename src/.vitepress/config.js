@@ -1,4 +1,5 @@
 const path = require("path");
+const gatag = "UA-209688701-2"
 
 import { defineUserConfig } from 'vuepress-vite';
 
@@ -11,6 +12,10 @@ export default defineUserConfig({
         ["link", { rel: "icon", href: "//minotar.net/helm/d297f52003024e5d944fd78edc82891a" }],
         ["link", { href: "/css/style.css", rel: "stylesheet" }],
         ["meta", { name: "viewport", content: "width=device-width, initial-scale=1.0" }],
+        ["script", { "async": true, "src": "https://www.googletagmanager.com/gtag/js?id=UA-209688701-2" }],
+        ["script", {},
+            [`window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', '${gatag}');`],
+        ],
         ["script", { async: true, src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2041303981654233", crossorigin: "anonymous" }],
     ],
     locales: {
