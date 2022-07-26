@@ -3,20 +3,18 @@
     "version": "1.0.0",
     "description": "Nakatai's Blog",
     "scripts": {
-        "dev": "vitepress dev src",
-        "build": "vitepress build src",
-        "eject": "vitepress eject src"
+        "dev": "vuepress dev src",
+        "build": "vuepress build src",
+        "eject": "vuepress eject src"
     },
     "author": {
         "name": "Nakatai-0322",
         "email": "info@nakatai.ga",
-        "url": "http://nakatai.ga"
+        "url": "https://nakatai.ga"
     },
     "license": "(Apache-2.0 OR CC-BY-SA-4.0)",
     "repository": "https://github.com/Nakatai-0322/Blog.git",
     "devDependencies": {
-        "vitepress": "^1.0.0-alpha.4",
-        "vue": "^3.2.37",
         "extend": "^3.0.2",
         "glob-parent": "^6.0.2",
         "got": "^12.2.0",
@@ -25,11 +23,12 @@
         "node-forge": "^1.3.0",
         "nth-check": "^2.0.1",
         "striptags": "^3.2.0",
-        "vuepress": "^1.9.2",
+        "vue": "^3.2.37",
         "vuepress-plugin-disqus": "^0.2.0",
         "vuepress-plugin-feed": "^0.1.9",
         "vuepress-plugin-sitemap": "^2.3.1",
-        "vuepress-theme-meteorlxy": "^1.9.0"
+        "vuepress-theme-meteorlxy": "^1.9.0",
+        "vuepress-vite": "^2.0.0-beta.49"
     },
     "dependencies": {}
 }
