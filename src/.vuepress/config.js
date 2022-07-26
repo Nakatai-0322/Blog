@@ -92,8 +92,8 @@ module.exports = {
                 <br>
                 &copy; 2021-present Nakatai Some Right Reserved.
                 <br>
-                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-                    <img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" width="120" height="42" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg">
+                <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+                    <img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" width="120" height="42" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg">
                 </a>
                 <br>
                 <a xmlns:cc="http://creativecommons.org/ns#" href="https://nakatai.ga" property="cc:attributionName" rel="cc:attributionURL">
