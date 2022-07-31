@@ -55,7 +55,7 @@ DiscordのIDは、[`Nakatai_0322#6872`](https://go.nakatai.ga/discord)
 
 そして、かんたんにその「知識」を共有してもらいたいと思っています。
 
-その取り組みの一例として、ブログ記事・ソースコードに対しての"[Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)"ライセンスと"[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)"ライセンスの適用があります。
+その取り組みの一例として、ブログ記事・ソースコードに対しての"[Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)"、"[Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)"の適用があります。
 
 前者は、「作品を複製、頒布、展示、実演を行うにあたり、著作権者の表示を要求し、作品を改変・変形・加工してできた作品についても元になった作品と同じライセンスを継承させた上で頒布を認める」という趣旨のものでありコンテンツの共有にもってこいのライセンスとなります。
 
