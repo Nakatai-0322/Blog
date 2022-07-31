@@ -16,7 +16,7 @@ Nakatai Blog（[こちら](https://github.com/Nakatai-0322/Blog/blob/main/README
 
 当サイトの正当な管理権限を有し、当サイトを管理する者を以下「管理者」若しくは「管理人」とする。
 
-当サイトにGitHub経由で寄稿をする者、寄稿をしようとする者を以下「寄稿者」とする。
+当サイトにGitHub等の手段を利用して寄稿をする者、寄稿をしようとする者を以下「寄稿者」とする。
 
 ## 適用
 
@@ -65,19 +65,19 @@ Nakatai Blog（[こちら](https://github.com/Nakatai-0322/Blog/blob/main/README
 
 ## 当サイトの著作権
 
-当サイトのコンテンツ又は[当サイトを構成するソースコード](https://github.com/Nakatai-0322/Blog)は、当サイトの管理者が管理する部分のみ、「[クリエイティブ・コモンズ 表示-継承](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)」ライセンス及び、"[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)"によって提供され、利用者はどちらかを選択して利用することができます。
+当サイトのコンテンツ又は[当サイトを構成するソースコード](https://github.com/Nakatai-0322/Blog)は、当サイトの管理者が管理する部分のみ、"[Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)"及び、"[Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)"によって提供され、利用者はどちらかを選択してそれらを利用することができます。
 
-詳しくは、[「クリエイティブ・コモンズ 表示-継承」ライセンスのリーガルコード](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)（英文）及び、["Apache License 2.0"のリーガルコード](https://www.apache.org/licenses/LICENSE-2.0.txt)（英文）をご覧ください。
+詳しくは、["Creative Commons Attribution-ShareAlike 4.0 International Public License"のリーガルコード](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)（英文）及び、["Apache License Version 2.0"のリーガルコード](https://www.apache.org/licenses/LICENSE-2.0.txt)（英文）をご覧ください。
 
 但し、当規約もしくは他の当サイトに適用される利用規約・ポリシー等については、[CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)を適用するものとします。
 
 詳しくは[リーガルコード](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt)をご覧ください。
 
-## 紛争解決
+## 準拠法・紛争解決
 
-本規約の解釈は、[日本国法](https://elaws.e-gov.go.jp/)によるものとします。
+本規約の解釈は、[日本国法](https://elaws.e-gov.go.jp)によるものとします。
 
-本規約は当サイトの管理者とユーザーとの紛争については、岐阜地方裁判所を専属的合意管轄裁判所とします。
+当サイトの管理者とユーザーとの紛争については、岐阜地方裁判所を専属的合意管轄裁判所とします。
 
 ## 問い合わせ
 
@@ -105,6 +105,8 @@ Discord:[`Nakatai_0322#6872`](https://go.nakatai.ga/discord)
 
 令和04年07月06日  ライセンスの変更（"Creative Commons Attribution" → "Creative Commons Attribution-ShareAlike"）
 
-※なお、軽微な変更は改正履歴に含めておりません。予めご了承ください。
+令和04年07月31日  ライセンスの表記変更・「寄稿者」の定義変更
+
+※なお、軽微な変更や規約の解釈が変わらない変更などは改正履歴に含めておりません。予めご了承ください。
 
 ※詳細な改正履歴については、[GitHubの更新履歴](https://github.com/Nakatai-0322/blog/commits/main/src/_posts/tos.md)をご覧ください。
