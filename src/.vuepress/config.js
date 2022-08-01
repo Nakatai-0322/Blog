@@ -1,66 +1,33 @@
 const path = require("path");
-const gatag = "UA-209688701-2"
+const gatag = "UA-209688701-2";
+const head = require("./head");
 
 module.exports = {
     title: "Nakatai Blog",
     theme: path.resolve(__dirname, "theme/index.js"),
     description: "Nakatai's Blog",
-    head: [
-        ["meta", {
-            "charset": "UTF-8"
-        }],
-        ["link", {
-            "rel": "icon",
-            "href": "https://cdn.nakatai.ga/img/nakataimc.webp",
-        }],
-        ["link", {
-            "href": "/css/style.css",
-            "rel": "stylesheet",
-        }],
-        ["meta", {
-            "name": "viewport",
-            "content": "width=device-width, initial-scale=1.0",
-        }],
-        ["script", {
-            "async": true,
-            "src": "https://www.googletagmanager.com/gtag/js?id=G-QVBXKW7FNX",
-        }],
-        ["script", `
-            window.dataLayer = window.dataLayer || [];
-            function gtag() { dataLayer.push(arguments); }
-            gtag('js', new Date());
-            gtag('config', 'G-QVBXKW7FNX');`
-        ],
-        ["script", {
-            async: true,
-            src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2041303981654233",
-            crossorigin: "anonymous"
-        }],
-    ],
+    head: head,
     locales: {
         "/": {
             lang: "ja-jp",
         },
     },
-    plugins: {
-        "vuepress-plugin-disqus": {
+    plugins: [
+        ["vuepress-plugin-disqus", {
             shortname: "blog-nakatai-ga",
-        },
-        "sitemap": {
+        }],
+        ["sitemap", {
             hostname: "https://nakatai.xyz",
             exclude: ["/404"],
             changefreq: "daily",
             dateFormatter: val => {
                 return new Date().toISOString()
             },
-        },
-    },
-    plugins: [
+        }],
         ["feed", {
             canonical_base: "https://nakatai.xyz",
-        }]
+        }],
     ],
-
     themeConfig: {
         lang: "ja-JP",
         personalInfo: {
