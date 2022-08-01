@@ -33,7 +33,9 @@ module.exports = {
         personalInfo: {
             nickname: "Nakatai",
             description: `
-            開発者もどき<br><a href="/profile">プロフィール</a><br>"手にしたい情報を、手にしやすく。"
+            開発者もどき<br>
+            <a href="/profile">プロフィール</a><br>
+            手にしたい情報を、手にしやすく。
             `,
             location: "Japan, Gifu Pref.(JP-21)",
             organization: "FREESERVER PROJECT etc...",
