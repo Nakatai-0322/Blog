@@ -1,11 +1,11 @@
 ---
 title: "プロセカの瑞希さんについて"
-date: 2022-01-03
+date: 2022-08-01
 categories:
     - ブログ
 tags:
-    - ペンタブ
-    - 絵
+    - プロセカ
+    - LGBTQ
 menu: main
 ---
 
