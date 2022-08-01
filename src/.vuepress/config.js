@@ -7,7 +7,7 @@ module.exports = {
     description: "Nakatai's Blog",
     head: [
         ["meta", { charset: "UTF-8" }],
-        ["link", { rel: "icon", href: "https://minotar.net/helm/d297f52003024e5d944fd78edc82891a" }],
+        ["link", { rel: "icon", href: "https://cdn.nakatai.ga/img/nakataimc.webp" }],
         ["link", { href: "/css/style.css", rel: "stylesheet" }],
         ["meta", { name: "viewport", content: "width=device-width, initial-scale=1.0" }],
         ["script", { "async": true, "src": "https://www.googletagmanager.com/gtag/js?id=UA-209688701-2" }],
