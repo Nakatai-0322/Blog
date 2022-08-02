@@ -32,11 +32,11 @@ Markdownという言語で書いています。因みにMarkdownを身の回り�
 
 Vueわかりません（）
 
-## なぜVitePressにしないのか
+## なぜVitePressとかビルドの早いやつを使わないのか
 
 それは移行がめんどくさいのと、難しいからです。
 
-確かにVitePressにすればビルドは早くなりますが、[GitHub](https://github.com)の[`feat-vite`](https://github.com/Nakatai-0322/blog/tree/feat-vite)ブランチを見るとわかる通りVitePressでVuePress向けのテーマを適用した状態でのビルドが成功しないという背景があるからです。
+確かにVitePressとかにすればビルドは早くなりますが、[GitHub](https://github.com)の[`feat-vite`](https://github.com/Nakatai-0322/blog/tree/feat-vite)ブランチを見るとわかる通りVitePressでブログ用テーマを適用した状態でのビルドが成功しないという背景があるからです。
 
 はい。いかがでしたでしょうか。個人的に専門用語を挟みすぎて開発者向けの某エンジニアコミュニティサービスの記事みたいになってしまいました。Qiitaに書けってことですね。はい。
 
